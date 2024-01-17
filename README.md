@@ -1,5 +1,9 @@
-# overseas-arrivals
-To analyze the trend of overseas arrivals.
+# Changes due to COVID-19
+1. overseas-arrivals
+- To analyze the trend of overseas arrivals.
+2. COVID-19_screening_clinic
+- Analysis of COVID-19 Screening Clinic Location
+
 
 ## 분석을 하면서..
 코로나19 감염병 확산은 우리 생활에 많은 변화를 가져왔습니다. 그중에서도 국가 간의 이동 제한은 해외 입국자 수 감소에 큰 영향을 끼쳤죠.
